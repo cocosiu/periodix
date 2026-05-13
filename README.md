@@ -1,4 +1,4 @@
-# Commercial Leasing Contract Period Month Splitter
+# Periodix
 
 A deterministic financial slicing engine for commercial leasing contracts, designed to handle complex billing cycles, proration rules, and rate adjustments with mathematical consistency.
 
@@ -122,7 +122,7 @@ Each segment is classified as:
 ## Usage
 
 ```js
-const Splitter = require('./ContractPeriodMonthSplitter');
+const Splitter = require('./Periodix');
 
 const contract = {
   startDate: "2025-01-15",
