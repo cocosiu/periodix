@@ -342,4 +342,4 @@ class Periodix {
     }
 }
 
-module.exports = ContractPeriodMonthSplitter;
+module.exports = Periodix;
